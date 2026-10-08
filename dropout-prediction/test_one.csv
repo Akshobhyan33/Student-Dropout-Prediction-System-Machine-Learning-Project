@@ -1,0 +1,21 @@
+Student_ID,Name,CGPA_Sem1,CGPA_Sem2,Subjects_Passed_Sem1,Subjects_Passed_Sem2,Subjects_Enrolled_Sem1,Subjects_Enrolled_Sem2,Attendance_Pct,Fees_Paid,Scholarship,Debtor,Age,Gender,Parent_Income,Admission_Grade,Mother_Qual,Father_Qual,Mother_Occ,Father_Occ,Course_Code,Previous_Qual,Prev_Qual_Grade,Actual_Outcome
+CS2024001,Arjun Sharma,8.5,8.2,6,6,6,6,85,1,0,0,19,0,800000,145,19,19,5,5,9119,1,130,Graduate
+CS2024002,Priya Patel,6.2,5.8,4,3,6,6,65,0,1,1,20,1,300000,110,12,10,9,9,9119,1,130,Dropout
+CS2024003,Rahul Kumar,7.0,6.5,5,5,6,6,75,1,0,0,21,0,500000,125,15,14,7,7,9119,1,130,Enrolled
+CS2024004,Sneha Reddy,9.1,8.9,6,6,6,6,92,1,1,0,18,1,1200000,155,20,20,2,3,9119,1,130,Graduate
+CS2024005,Vikram Singh,5.5,4.8,2,1,6,6,45,0,0,1,22,0,250000,100,10,10,10,10,9119,1,130,Dropout
+CS2024006,Anita Desai,8.0,7.8,6,5,6,6,88,1,1,0,19,1,900000,140,18,17,4,4,9119,1,130,Graduate
+CS2024007,Rohit Verma,6.8,6.0,5,4,6,6,70,1,0,0,20,0,450000,120,14,13,6,6,9119,1,130,Enrolled
+CS2024008,Meera Iyer,7.5,7.2,5,5,6,6,80,1,0,0,19,1,600000,130,16,15,5,5,9119,1,130,Graduate
+CS2024009,Karthik Nair,5.8,5.2,3,2,6,6,55,0,0,1,21,0,350000,105,11,11,9,9,9119,1,130,Dropout
+CS2024010,Divya Menon,8.8,8.5,6,6,6,6,90,1,1,0,18,1,1100000,150,19,18,3,3,9119,1,130,Graduate
+CS2024011,Aditya Rao,6.5,5.9,4,3,6,6,68,1,0,0,20,0,400000,115,13,12,8,8,9119,1,130,Enrolled
+CS2024012,Kavya Pillai,7.2,6.8,5,5,6,6,78,1,0,0,19,1,550000,128,17,16,5,5,9119,1,130,Graduate
+CS2024013,Sanjay Gupta,5.2,4.5,2,1,6,6,50,0,0,1,22,0,280000,100,10,10,10,10,9119,1,130,Dropout
+CS2024014,Pooja Joshi,8.3,8.0,6,5,6,6,85,1,1,0,19,1,950000,142,18,17,4,4,9119,1,130,Graduate
+CS2024015,Nikhil Agarwal,6.0,5.5,3,3,6,6,60,0,1,1,21,0,380000,108,12,11,9,9,9119,1,130,Dropout
+CS2024016,Swati Mishra,7.8,7.5,6,5,6,6,82,1,0,0,19,1,700000,138,16,15,5,5,9119,1,130,Graduate
+CS2024017,Deepak Yadav,6.3,5.8,4,4,6,6,72,1,0,0,20,0,420000,118,14,13,7,7,9119,1,130,Enrolled
+CS2024018,Riya Shah,8.6,8.3,6,6,6,6,89,1,1,0,18,1,1050000,148,19,19,3,3,9119,1,130,Graduate
+CS2024019,Mohit Jain,5.5,5.0,2,2,6,6,48,0,0,1,22,0,300000,102,11,11,10,10,9119,1,130,Dropout
+CS2024020,Neha Singh,7.0,6.7,5,5,6,6,77,1,0,0,20,1,650000,132,15,14,6,6,9119,1,130,Graduate

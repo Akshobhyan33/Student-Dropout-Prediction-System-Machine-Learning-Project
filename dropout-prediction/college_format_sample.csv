@@ -1,0 +1,6 @@
+Student_ID,Name,CGPA_Sem1,CGPA_Sem2,Subjects_Passed_Sem1,Subjects_Passed_Sem2,Subjects_Enrolled_Sem1,Subjects_Enrolled_Sem2,Attendance_Pct,Fees_Paid,Scholarship,Debtor,Age,Gender,Parent_Income,Admission_Grade,Actual_Outcome
+CS2024001,Arjun Sharma,8.5,8.2,6,6,6,6,85,1,0,0,19,0,800000,145,Graduate
+CS2024002,Priya Patel,6.2,5.8,4,3,6,6,65,0,1,1,20,1,300000,110,Dropout
+CS2024003,Rahul Kumar,7.0,6.5,5,5,6,6,75,1,0,0,21,0,500000,125,Enrolled
+CS2024004,Sneha Reddy,9.1,8.9,6,6,6,6,92,1,1,0,18,1,1200000,155,Graduate
+CS2024005,Vikram Singh,5.5,4.8,2,1,6,6,45,0,0,1,22,0,250000,100,Dropout
